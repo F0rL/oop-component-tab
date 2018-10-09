@@ -28,3 +28,4 @@ var tab2 = new Tab(document.querySelectorAll('.tab-container')[1]);
 直接 new Tab ，将需要使用组件的对象作为实例
 
 ## 效果预览
+https://f0rl.github.io/oop-component-tab/sample.html
